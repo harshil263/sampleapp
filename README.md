@@ -7,3 +7,10 @@ All JS files and HTML files may have not perfect naimg convention or you may fin
 ### These are the sample screen shots of this app.
 
 ![Sample view](https://s16.postimg.org/5qsp6cu3p/app_1.png)
+
+![Sample view](https://s22.postimg.org/cpz9ffks1/app_2.png)
+
+![Sample view](https://s11.postimg.org/ll4fcmiar/app_6.png)
+
+![Sample view](https://s13.postimg.org/orecbhylz/app_7.png)
+
